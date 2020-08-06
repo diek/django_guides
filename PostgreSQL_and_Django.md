@@ -9,4 +9,6 @@
 `ALTER ROLE myprojectuser SET default_transaction_isolation TO 'read committed';`  
 `ALTER ROLE myprojectuser SET timezone TO 'UTC';`  
 
-`GRANT ALL PRIVILEGES ON DATABASE myproject TO myprojectuser;`  
+`GRANT ALL PRIVILEGES ON DATABASE myproject TO myprojectuser;` 
+
+`REVOKE ALL PRIVILEGES ON DATABASE myproject FROM public;` 
