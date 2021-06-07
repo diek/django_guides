@@ -8,7 +8,8 @@ It is simple, you just go to https://www.ppaste.org, https://dpaste.org, https:/
     
     2. Copy and paste your code into the space provided  
     
-    3. Hit the Paste Snippet button ![Paste - 1](./img/dpaste_1.png)  
+    3. Hit the Paste Snippet button.
+    <h1 align="center"><img align="center" width="300" src="./img/dpaste_1.png" alt="DjangoX logo"></h1>  
     
     ![Paste - 1](https://raw.githubusercontent.com/diek/django_guides/d21ca21ec681c2e0bee73240e06ef1196f835f20/img/dpaste_1.png)  
     
